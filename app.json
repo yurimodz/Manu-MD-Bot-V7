@@ -20,7 +20,7 @@
   "env": {
     "MODE": {
       "description": "Put public,private,groups.",
-      "required": public
+      "required": true
     },  
     
     "ALIVE_IMG": {
