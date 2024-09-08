@@ -10,26 +10,14 @@
       "description": "Put the session-id here.",
       "required": true
     },  
-    
-      "env": {
-    "AUTO_VOICE": {
-      "description": "Auto Girl Voice.",
-      "required": true
-    },  
 
-  "env": {
-    "MODE": {
-      "description": "Put public,private,groups.",
-      "required": true
-    },  
-    
-    "ALIVE_IMG": {
-      "description": "Put your alive img here.",
+    "AUTO_VOICE": {
+      "description": "Put true or false.",
       "required": true
     },
     
-    "ALIVE_MSG": {
-      "description": "Put your alive msg here.",
+    "MODE": {
+      "description": "Put worktype public or private or groups.",
       "required": true
     }   
 },
